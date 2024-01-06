@@ -1,4 +1,4 @@
-template for cyclic json server deploy ment<br>
+template for cyclic json server deploy<br>
 learn more https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server<br>
 deploy at
 https://www.cyclic.sh/
